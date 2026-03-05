@@ -1,0 +1,51 @@
+OUTPUT	
+PS D:\Assignment>  & 'c:\Users\anant\AppData\Local\Programs\Python\Python310\python.exe' 'c:\Users\anant\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\libs\debugpy\launcher' '57484' '--' 'D:\Assignment\d.s\aert_toolkit.py'
+Factorial Tests 
+0! = 1
+1! = 1
+5! = 120
+10! = 3628800
+
+ Fibonacci Tests
+For n = 5
+Naive Fibonacci: 5
+Naive Calls: 15
+Memoized Fibonacci: 5
+Memoized Calls: 9
+
+For n = 10
+Naive Fibonacci: 55
+Naive Calls: 177
+Memoized Fibonacci: 55
+Memoized Calls: 19
+
+For n = 20
+Naive Fibonacci: 6765
+Naive Calls: 21891
+Memoized Fibonacci: 6765
+Memoized Calls: 39
+
+For n = 30
+Naive Fibonacci: 832040
+Naive Calls: 2692537
+Memoized Fibonacci: 832040
+Memoized Calls: 59
+
+Tower of Hanoi (N = 3)
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+Binary Search Tests
+Search 7 -> Index: 3
+Search 1 -> Index: 0
+Search 13 -> Index: 6
+Search 2 -> Index: -1
+
+Empty Array Test:
+-1
+PS D:\Assignment>
